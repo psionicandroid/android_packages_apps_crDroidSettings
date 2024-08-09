@@ -16,6 +16,12 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
+    <!-- Hide developer status -->
+    <string name="hide_developer_status_title">Hide developer status</string>
+    <string name="hide_developer_status_summary">Hide developer status from apps</string>
+    <string name="search">Search</string>
+    <string name="search_apps">Search apps</string>
+
     <!-- App Title -->
     <string name="crdroid_settings_title">crDroid Settings</string>
     <string name="crdroid_settings_summary">Open goodness</string>
