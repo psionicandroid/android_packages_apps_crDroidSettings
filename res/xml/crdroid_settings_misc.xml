@@ -94,6 +94,7 @@
     <!-- Hide developer status -->
     <Preference
         android:key="hide_developer_status_settings"
+        android:icon="@drawable/ic_hide_dev"
         android:title="@string/hide_developer_status_title"
         android:summary="@string/hide_developer_status_summary"
         android:fragment="com.crdroid.settings.fragments.HideDeveloperStatusSettings" />
@@ -101,6 +102,7 @@
     <!-- Ignore window secure flags -->
     <com.crdroid.settings.preferences.SecureSettingSwitchPreference
         android:key="window_ignore_secure"
+        android:icon="@drawable/ic_ignore_window"
         android:title="@string/laboratory_ignore_window_secure_title"
         android:summary="@string/laboratory_ignore_window_secure_summary"
         android:defaultValue="false" />
